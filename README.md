@@ -36,6 +36,12 @@ With more than 200 practical recipes, this book helps you perform data analysis 
 
 This book brings the fundamentals of R programming to you, using the same material developed as part of the industry-leading Johns Hopkins Data Science Specialization. The skills taught in this book will lay the foundation for you to begin your journey learning data science. See the packages below to obtain datasets, R code files, and video lectures.
 
+#### Exploratory Data Analysis with R [[Leanpub]](https://leanpub.com/exdata) *Free*
+
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/exdata/large?1437682450" width="200px"/>
+
+This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization, the most widely subscribed data science training program ever created.
+
 Advanced Books
 ---
 
