@@ -6,6 +6,7 @@ A curated list of books about different aspects and applications of [R](https://
 	* [Beginner Books](#beginner-books)
 	* [Advanced Books](#advanced-books)
 	* [Visualization](#visualization)
+	* [Machine Learning](#machine-learning)
 	* [Reports](#reports)
 	* [R Development](#r-development)
 
@@ -73,6 +74,15 @@ This book is packed with practical recipes, designed to provide you with all the
 This practical guide provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.
 
 Most of the recipes use the ggplot2 package, a powerful and flexible way to make graphs in R. If you have a basic understanding of the R language, you’re ready to get started.
+
+Machine Learning
+---
+
+#### Machine Learning with R [[Amazon]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [[O'Reilly]](http://shop.oreilly.com/product/9781782162148.do)
+
+<img src="http://ecx.images-amazon.com/images/I/518PBAYk%2BxL._SX404_BO1,204,203,200_.jpg" width="200px"/>
+
+"Machine Learning with R" is a practical tutorial that uses hands-on examples to step through real-world application of machine learning. Without shying away from the technical details, we will explore Machine Learning with R using clear and practical examples. Well-suited to machine learning beginners or those with experience. Explore R to find the answer to all of your questions.
 
 Reports
 ---
