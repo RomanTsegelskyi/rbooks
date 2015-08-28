@@ -49,6 +49,12 @@ R in Action, Second Edition teaches you how to use the R language by presenting 
 
 This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization, the most widely subscribed data science training program ever created.
 
+#### Learn R in a Day [[Amazon]](http://www.amazon.com/Learn-R-Day-Steven-Murray-ebook/) 
+
+<img src="http://ecx.images-amazon.com/images/I/4184UusYfJL._SX345_BO1,204,203,200_.jpg" width="200px"/>
+
+'Learn R in a Day' provides the reader with key programming skills through an examples-oriented approach and is ideally suited for academics, scientists, mathematicians and engineers. The book assumes no prior knowledge of computer programming and progressively covers all the essential steps needed to become confident and proficient in using R within a day. Topics include how to input, manipulate, format, iterate (loop), query, perform basic statistics on, and plot data, via a step-by-step technique and demonstrations using in-built datasets which the reader is encouraged to replicate on their computer. Each chapter also includes exercises (with solutions) to practice key skills and empower the reader to build on the essentials gained during this introductory course. 
+
 Advanced Books
 ---
 
