@@ -55,6 +55,14 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 'Learn R in a Day' provides the reader with key programming skills through an examples-oriented approach and is ideally suited for academics, scientists, mathematicians and engineers. The book assumes no prior knowledge of computer programming and progressively covers all the essential steps needed to become confident and proficient in using R within a day. Topics include how to input, manipulate, format, iterate (loop), query, perform basic statistics on, and plot data, via a step-by-step technique and demonstrations using in-built datasets which the reader is encouraged to replicate on their computer. Each chapter also includes exercises (with solutions) to practice key skills and empower the reader to build on the essentials gained during this introductory course. 
 
+#### R Inferno [[Online]](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) *Free* 
+
+<img src="http://www.burns-stat.com/wp-content/uploads/2012/11/R_inferno_cover.jpg" width="200px"/>
+
+"If you are using R and you think you’re in hell, this is a map for you."
+
+This is a great introduction to several aspects of R programming. Loading data into R, iterating over data with loops & logic statements, author even touches on creating packages. Nice and pretty thorough book on R. 
+
 Advanced Books
 ---
 
