@@ -25,6 +25,12 @@ Learn how to perform data analysis with the R language and software environment,
 
 Learn how to program by diving into the R language, and then use your newfound skills to solve practical data science problems. With this book, you' ll learn how to load data, assemble and disassemble data objects, navigate R's environment system, write your own functions, and use all of R's programming tools.
 
+#### The R Book [[Amazon]](http://www.amazon.com/The-Book-Michael-J-Crawley/dp/0470973927)
+
+<img src="http://ecx.images-amazon.com/images/I/41NNNTouQbL._SX371_BO1,204,203,200_.jpg" width="200px"/>
+
+Very massive, hugely successful and popular text presenting an extensive and comprehensive guide for all R users. Covers wide variaty of R topics in great detail with very useful examples.
+
 #### R Cookbook [[Amazon]](http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/) 
 
 <img src="http://ecx.images-amazon.com/images/I/51ZWUV2DEyL._SX379_BO1,204,203,200_.jpg" width="200px"/>
@@ -97,6 +103,8 @@ Machine Learning
 <img src="http://ecx.images-amazon.com/images/I/518PBAYk%2BxL._SX404_BO1,204,203,200_.jpg" width="200px"/>
 
 "Machine Learning with R" is a practical tutorial that uses hands-on examples to step through real-world application of machine learning. Without shying away from the technical details, we will explore Machine Learning with R using clear and practical examples. Well-suited to machine learning beginners or those with experience. Explore R to find the answer to all of your questions.
+
+#### Machine Learning for Hackers [[Amazon]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [[O'Reilly]](http://shop.oreilly.com/product/9781782162148.do)
 
 Reports
 ---
