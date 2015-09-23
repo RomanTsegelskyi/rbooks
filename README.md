@@ -31,6 +31,12 @@ Learn how to program by diving into the R language, and then use your newfound s
 
 Very massive, hugely successful and popular text presenting an extensive and comprehensive guide for all R users. Covers wide variaty of R topics in great detail with very useful examples.
 
+#### R for Everyone: Advanced Analytics and Graphics [[Amazon]](http://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030)
+
+<img src="http://ecx.images-amazon.com/images/I/51Jib4uNx3L._SX393_BO1,204,203,200_.jpg" width="200px"/>
+
+Drawing on his unsurpassed experience teaching new users, professional data scientist Jared P. Lander has written the perfect tutorial for anyone new to statistical programming and modeling. Organized to make learning easy and intuitive, this guide focuses on the 20 percent of R functionality you’ll need to accomplish 80 percent of modern data tasks. Book's self-contained chapters start with the absolute basics, offering extensive hands-on practice and sample code. You’ll download and install R; navigate and use the R environment; master basic program control, data import, and manipulation; and walk through several essential tests. Then, building on this foundation, you’ll construct several complete models, both linear and nonlinear, and use some data mining techniques.
+
 #### R Cookbook [[Amazon]](http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158/) 
 
 <img src="http://ecx.images-amazon.com/images/I/51ZWUV2DEyL._SX379_BO1,204,203,200_.jpg" width="200px"/>
