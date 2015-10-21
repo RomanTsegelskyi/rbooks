@@ -7,6 +7,7 @@ A curated list of books about different aspects and applications of [R](https://
 	* [Advanced Books](#advanced-books)
 	* [Visualization](#visualization)
 	* [Machine Learning](#machine-learning)
+	* [Data Science](#data-science)
 	* [Reports](#reports)
 	* [R Development](#r-development)
 
@@ -101,16 +102,25 @@ This practical guide provides more than 150 recipes to help you generate high-qu
 
 Most of the recipes use the ggplot2 package, a powerful and flexible way to make graphs in R. If you have a basic understanding of the R language, you’re ready to get started.
 
+Data Science
+---
+
+#### Mastering Data Science with R [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r)
+
+<img src="https://www.packtpub.com/sites/default/files/2028OS_1981_Mastering%20Data%20Analysis%20with%20R.jpg" width="200px"/>
+
+This book will give you the guidance you need to build and develop your knowledge and expertise. Bridging the gap between theory and practice, this book will help you to understand and use data for a competitive advantage.
+
+Beginning with taking you through essential data mining and management tasks such as munging, fetching, cleaning, and restructuring, the book then explores different model designs and the core components of effective analysis. You will then discover how to optimize your use of machine learning algorithms for classification and recommendation systems beside the traditional and more recent statistical methods.
+
 Machine Learning
 ---
 
-#### Machine Learning with R [[Amazon]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [[O'Reilly]](http://shop.oreilly.com/product/9781782162148.do)
+#### Machine Learning for Hackers [[Amazon]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [[O'Reilly]](http://shop.oreilly.com/product/9781782162148.do)
 
 <img src="http://ecx.images-amazon.com/images/I/518PBAYk%2BxL._SX404_BO1,204,203,200_.jpg" width="200px"/>
 
 "Machine Learning with R" is a practical tutorial that uses hands-on examples to step through real-world application of machine learning. Without shying away from the technical details, we will explore Machine Learning with R using clear and practical examples. Well-suited to machine learning beginners or those with experience. Explore R to find the answer to all of your questions.
-
-#### Machine Learning for Hackers [[Amazon]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [[O'Reilly]](http://shop.oreilly.com/product/9781782162148.do)
 
 Reports
 ---
