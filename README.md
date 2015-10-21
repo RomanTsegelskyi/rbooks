@@ -116,7 +116,7 @@ Beginning with taking you through essential data mining and management tasks suc
 Machine Learning
 ---
 
-#### Machine Learning for Hackers [[Amazon]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [[O'Reilly]](http://shop.oreilly.com/product/9781782162148.do)
+#### Machine Learning with R [[Amazon]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [[O'Reilly]](http://shop.oreilly.com/product/9781782162148.do)
 
 <img src="http://ecx.images-amazon.com/images/I/518PBAYk%2BxL._SX404_BO1,204,203,200_.jpg" width="200px"/>
 
