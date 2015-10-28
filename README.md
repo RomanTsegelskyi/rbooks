@@ -113,6 +113,14 @@ This book will give you the guidance you need to build and develop your knowledg
 
 Beginning with taking you through essential data mining and management tasks such as munging, fetching, cleaning, and restructuring, the book then explores different model designs and the core components of effective analysis. You will then discover how to optimize your use of machine learning algorithms for classification and recommendation systems beside the traditional and more recent statistical methods.
 
+#### Practical Data Science with R [[Amazon]](http://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617291560)
+
+<img src="http://ecx.images-amazon.com/images/I/51SklHvc%2BZL._SX397_BO1,204,203,200_.jpg" width="200px"/>
+
+Practical Data Science with R shows you how to apply the R programming language and useful statistical techniques to everyday business situations. Using examples from marketing, business intelligence, and decision support, it shows you how to design experiments (such as A/B tests), build predictive models, and present results to audiences of all levels.
+
+This book is accessible to readers without a background in data science. Some familiarity with basic statistics, R, or another scripting language is assumed.
+
 Machine Learning
 ---
 
