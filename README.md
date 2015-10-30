@@ -44,24 +44,6 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression.
 
-#### R in Action: Data Analysis and Graphics with R [[Amazon]](http://www.amazon.com/gp/product/1617291382)
-
-<img src="http://ecx.images-amazon.com/images/I/41cUuaLl2PL._SX396_BO1,204,203,200_.jpg" width="200px"/>
-
-With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression.
-
-#### R Programming for Data Science [[Leanpub]](https://leanpub.com/rprogramming) *Free*
-
-<img src="https://s3.amazonaws.com/titlepages.leanpub.com/rprogramming/large?1437358922" width="200px"/>
-
-R in Action, Second Edition teaches you how to use the R language by presenting examples relevant to scientific, technical, and business developers. Focusing on practical solutions, the book offers a crash course in statistics, including elegant methods for dealing with messy and incomplete data. You'll also master R's extensive graphical capabilities for exploring and presenting data visually. And this expanded second edition includes new chapters on forecasting, data mining, and dynamic report writing.
-
-#### Exploratory Data Analysis with R [[Leanpub]](https://leanpub.com/exdata) *Free*
-
-<img src="https://s3.amazonaws.com/titlepages.leanpub.com/exdata/large?1437682450" width="200px"/>
-
-This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization, the most widely subscribed data science training program ever created.
-
 #### Learn R in a Day [[Amazon]](http://www.amazon.com/Learn-R-Day-Steven-Murray-ebook/) 
 
 <img src="http://ecx.images-amazon.com/images/I/4184UusYfJL._SX345_BO1,204,203,200_.jpg" width="200px"/>
@@ -120,6 +102,24 @@ Beginning with taking you through essential data mining and management tasks suc
 Practical Data Science with R shows you how to apply the R programming language and useful statistical techniques to everyday business situations. Using examples from marketing, business intelligence, and decision support, it shows you how to design experiments (such as A/B tests), build predictive models, and present results to audiences of all levels.
 
 This book is accessible to readers without a background in data science. Some familiarity with basic statistics, R, or another scripting language is assumed.
+
+#### R in Action: Data Analysis and Graphics with R [[Amazon]](http://www.amazon.com/gp/product/1617291382)
+
+<img src="http://ecx.images-amazon.com/images/I/41cUuaLl2PL._SX396_BO1,204,203,200_.jpg" width="200px"/>
+
+With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression.
+
+#### R Programming for Data Science [[Leanpub]](https://leanpub.com/rprogramming) *Free*
+
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/rprogramming/large?1437358922" width="200px"/>
+
+R in Action, Second Edition teaches you how to use the R language by presenting examples relevant to scientific, technical, and business developers. Focusing on practical solutions, the book offers a crash course in statistics, including elegant methods for dealing with messy and incomplete data. You'll also master R's extensive graphical capabilities for exploring and presenting data visually. And this expanded second edition includes new chapters on forecasting, data mining, and dynamic report writing.
+
+#### Exploratory Data Analysis with R [[Leanpub]](https://leanpub.com/exdata) *Free*
+
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/exdata/large?1437682450" width="200px"/>
+
+This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization, the most widely subscribed data science training program ever created.
 
 Machine Learning
 ---
