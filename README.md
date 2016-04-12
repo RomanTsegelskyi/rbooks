@@ -58,6 +58,15 @@ With more than 200 practical recipes, this book helps you perform data analysis 
 
 This is a great introduction to several aspects of R programming. Loading data into R, iterating over data with loops & logic statements, author even touches on creating packages. Nice and pretty thorough book on R. 
 
+
+#### BOOK NAME [[PLACE]](BOOK URL) 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Wikibooks-logo-en.svg" width="200px"/>
+
+The R Programming Wikibook
+
+A collaborative book about R on the wikibooks website. Anyone can improve it.
+
 Advanced Books
 ---
 
