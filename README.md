@@ -6,6 +6,7 @@ A curated list of books about different aspects and applications of [R](https://
 	* [Beginner Books](#beginner-books)
 	* [Advanced Books](#advanced-books)
 	* [Data Science](#data-science)
+	* [Finance](#finance)
 	* [Machine Learning](#machine-learning)
 	* [R Development](#r-development)
 	* [Reports](#reports)
@@ -120,6 +121,9 @@ R in Action, Second Edition teaches you how to use the R language by presenting 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/exdata/large?1437682450" width="200px"/>
 
 This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization, the most widely subscribed data science training program ever created.
+
+Finance
+---
 
 Machine Learning
 ---
