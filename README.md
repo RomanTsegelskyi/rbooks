@@ -124,6 +124,15 @@ This book teaches you to use R to effectively visualize and explore complex data
 
 Finance
 ---
+#### Introduction to R for Quantitative Finance [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-quantitative-finance)
+
+<img src="http://ecx.images-amazon.com/images/I/516emfY3voL._SX404_BO1,204,203,200_.jpg" width="200px"/>
+
+Introduction to R for Quantitative Finance will show you how to solve real-world quantitative finance problems using the statistical computing language R. The book covers diverse topics ranging from time series analysis to fi nancial networks. Each chapter briefl y presents the theory behind specific concepts and deals with solving a diverse range of problems using R with the help of practical examples.
+
+This book will be your guide on how to use and master R in order to solve quantitative finance problems. This book covers the essentials of quantitative finance, taking you through a number of clear and practical examples in R that will not only help you to understand the theory, but how to effectively deal with your own real-life problems.
+
+Starting with time series analysis, you will also learn how to optimize portfolios and how asset pricing models work. The book then covers fixed income securities and derivatives such as credit risk management.
 
 Machine Learning
 ---
