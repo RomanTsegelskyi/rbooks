@@ -5,11 +5,12 @@ A curated list of books about different aspects and applications of [R](https://
 * [R Books](#r-books)
 	* [Beginner Books](#beginner-books)
 	* [Advanced Books](#advanced-books)
-	* [Visualization](#visualization)
-	* [Machine Learning](#machine-learning)
 	* [Data Science](#data-science)
-	* [Reports](#reports)
+	* [Finance](#finance)
+	* [Machine Learning](#machine-learning)
 	* [R Development](#r-development)
+	* [Reports](#reports)
+	* [Visualization](#visualization)
 
 Beginner Books
 ---
@@ -84,24 +85,6 @@ The primary focus on group-wise data manipulation with the split-apply-combine s
 
 By the end of this book, you will have learned about text manipulation using stringr, how to extract data from twitter using twitteR library, how to clean raw data, and how to structure your raw data for data mining.
 
-
-Visualization
----
-
-#### R Data Visualization Cookbook [[Amazon]](http://www.amazon.com/dp/1466586966/)
-
-<img src="http://ecx.images-amazon.com/images/I/411f0UoYBPL._AA160_.jpg" width="200px"/>
-
-This book is packed with practical recipes, designed to provide you with all the guidance needed to get to grips with data visualization with R. It starts off with the basics of R plots and an introduction to heat maps and customizing them, before gradually taking you through creating interactive maps using the googleVis package, generating choropleth maps and contouring maps, bubble plots, and pie charts. You will then learn how to animate 2D and 3D plots in R. By the end of the book, you will be equipped with the key techniques to create impressive data visualizations with professional efficiency and precision.
-
-#### R Graphics Cookbook [[Amazon]](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956)
-
-<img src="http://ecx.images-amazon.com/images/I/51gjgnl23VL._AA160_.jpg" width="200px"/>
-
-This practical guide provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.
-
-Most of the recipes use the ggplot2 package, a powerful and flexible way to make graphs in R. If you have a basic understanding of the R language, you’re ready to get started.
-
 Data Science
 ---
 
@@ -139,6 +122,18 @@ R in Action, Second Edition teaches you how to use the R language by presenting 
 
 This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization, the most widely subscribed data science training program ever created.
 
+Finance
+---
+#### Introduction to R for Quantitative Finance [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-quantitative-finance)
+
+<img src="http://ecx.images-amazon.com/images/I/516emfY3voL._SX404_BO1,204,203,200_.jpg" width="200px"/>
+
+Introduction to R for Quantitative Finance will show you how to solve real-world quantitative finance problems using the statistical computing language R. The book covers diverse topics ranging from time series analysis to fi nancial networks. Each chapter briefl y presents the theory behind specific concepts and deals with solving a diverse range of problems using R with the help of practical examples.
+
+This book will be your guide on how to use and master R in order to solve quantitative finance problems. This book covers the essentials of quantitative finance, taking you through a number of clear and practical examples in R that will not only help you to understand the theory, but how to effectively deal with your own real-life problems.
+
+Starting with time series analysis, you will also learn how to optimize portfolios and how asset pricing models work. The book then covers fixed income securities and derivatives such as credit risk management.
+
 Machine Learning
 ---
 
@@ -147,6 +142,15 @@ Machine Learning
 <img src="http://ecx.images-amazon.com/images/I/518PBAYk%2BxL._SX404_BO1,204,203,200_.jpg" width="200px"/>
 
 "Machine Learning with R" is a practical tutorial that uses hands-on examples to step through real-world application of machine learning. Without shying away from the technical details, we will explore Machine Learning with R using clear and practical examples. Well-suited to machine learning beginners or those with experience. Explore R to find the answer to all of your questions.
+
+R Development
+---
+
+#### R Packages [[Online]](http://r-pkgs.had.co.nz/)  [[Amazon]](http://www.amazon.com/dp/1491910593/)
+
+<img src="http://r-pkgs.had.co.nz/cover.png" width="200px"/>
+
+Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.
 
 Reports
 ---
@@ -163,14 +167,22 @@ Suitable for both beginners and advanced users, Dynamic Documents with R and kni
 
 This book teaches the fundamental concepts and tools behind reporting modern data analyses in a reproducible manner. As data analyses become increasingly complex, the need for clear and reproducible report writing is greater than ever. The material for this book was developed as part of the industry-leading Johns Hopkins Data Science Specialization.
 
-R Development
+Visualization
 ---
 
-#### R Packages [[Online]](http://r-pkgs.had.co.nz/)  [[Amazon]](http://www.amazon.com/dp/1491910593/)
+#### R Data Visualization Cookbook [[Amazon]](http://www.amazon.com/dp/1466586966/)
 
-<img src="http://r-pkgs.had.co.nz/cover.png" width="200px"/>
+<img src="http://ecx.images-amazon.com/images/I/411f0UoYBPL._AA160_.jpg" width="200px"/>
 
-Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.
+This book is packed with practical recipes, designed to provide you with all the guidance needed to get to grips with data visualization with R. It starts off with the basics of R plots and an introduction to heat maps and customizing them, before gradually taking you through creating interactive maps using the googleVis package, generating choropleth maps and contouring maps, bubble plots, and pie charts. You will then learn how to animate 2D and 3D plots in R. By the end of the book, you will be equipped with the key techniques to create impressive data visualizations with professional efficiency and precision.
+
+#### R Graphics Cookbook [[Amazon]](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956)
+
+<img src="http://ecx.images-amazon.com/images/I/51gjgnl23VL._AA160_.jpg" width="200px"/>
+
+This practical guide provides more than 150 recipes to help you generate high-quality graphs quickly, without having to comb through all the details of R’s graphing systems. Each recipe tackles a specific problem with a solution you can apply to your own project, and includes a discussion of how and why the recipe works.
+
+Most of the recipes use the ggplot2 package, a powerful and flexible way to make graphs in R. If you have a basic understanding of the R language, you’re ready to get started.
 
 Contributing
 ====
