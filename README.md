@@ -66,13 +66,19 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 A collaborative book about R on the wikibooks website. Anyone can improve it.
 
+#### Data Munging with R [[Manning]](https://www.manning.com/books/data-munging-with-r) 
+
+<img src="https://images.manning.com/720/960/resize/book/7/3003658-da45-49c5-94a8-b7a38e6d3088/Carroll-DataM-MEAP-HI.png" width="200px"/>
+
+Data Munging with R shows you how to take raw data and transform it for use in computations, tables, graphs, and more. Whether you already have some programming experience or you're just a spreadsheet whiz looking for a more powerful data manipulation tool, this book will help you get started.
+
+You'll discover the ins and outs of using the data-oriented R programming language and its many task-specific packages. With dozens of practical examples to follow, learn to fill in missing values, make predictions, and visualize data as graphs. By the time you're done, you'll be a master munger, with a robust, reproducible workflow and the skills to use data to strengthen your conclusions!
 
 #### R for Data Science [[Online]](http://r4ds.had.co.nz/)  *Free*
 
 <img src="http://ecx.images-amazon.com/images/I/51XHOt2Tt8L._SY344_BO1,204,203,200_.jpg" width="200px"/>
 
 Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the *[tidyverse](https://www.tidyverse.org/)*, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.
-
 
 Advanced Books
 ---
