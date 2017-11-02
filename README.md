@@ -66,6 +66,14 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 A collaborative book about R on the wikibooks website. Anyone can improve it.
 
+
+#### R for Data Science [[Online]](http://r4ds.had.co.nz/)  *Free*
+
+<img src="http://ecx.images-amazon.com/images/I/51XHOt2Tt8L._SY344_BO1,204,203,200_.jpg" width="200px"/>
+
+Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the *[tidyverse](https://www.tidyverse.org/)*, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.
+
+
 Advanced Books
 ---
 
