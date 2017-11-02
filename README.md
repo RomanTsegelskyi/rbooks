@@ -74,6 +74,12 @@ Data Munging with R shows you how to take raw data and transform it for use in c
 
 You'll discover the ins and outs of using the data-oriented R programming language and its many task-specific packages. With dozens of practical examples to follow, learn to fill in missing values, make predictions, and visualize data as graphs. By the time you're done, you'll be a master munger, with a robust, reproducible workflow and the skills to use data to strengthen your conclusions!
 
+#### R for Data Science [[Online]](http://r4ds.had.co.nz/)  *Free*
+
+<img src="http://ecx.images-amazon.com/images/I/51XHOt2Tt8L._SY344_BO1,204,203,200_.jpg" width="200px"/>
+
+Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the *[tidyverse](https://www.tidyverse.org/)*, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.
+
 Advanced Books
 ---
 
